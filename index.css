@@ -1,0 +1,7 @@
+span {
+    color:darkgrey(0, 110, 255);
+    font-weight: bold;
+    text-shadow: 0 0 10px rgb(212, 149, 119) ;
+    background-color:rgb(223, 222, 198);
+    font-size: 30px;
+}
